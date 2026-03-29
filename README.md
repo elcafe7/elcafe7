@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔭 elcafe7 | Systems Architect & AI Researcher</h1>
+  <h1>🔭 elcafe7 | Pseudoanon...</h1>
   <p><i>Building lightweight, autonomous, and high-signal software for the next generation of terminal-first workflows.</i></p>
 </div>
 
