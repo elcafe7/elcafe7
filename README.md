@@ -1,9 +1,6 @@
 # Hi, 'elcafe7' here.
 
 ## Public Repositories
-
-- [cli-websockets](https://github.com/elcafe7/cli-websockets) - CLI-based WebSocket communication utility.
-
   
 - [desktop_linktree](https://github.com/elcafe7/desktop_linktree) - A flat, self-updating linktree for desktop use, editable via browser.
 
