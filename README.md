@@ -1,6 +1,9 @@
 # Hi, 'elcafe7' here.
 
 ## Public Repositories
+
+- [lex: the elegant bible terminal](https://github.com/elcafe7/lex/) - Offline Python CLI for elegant bible study and focused reading.
+
   
 - [desktop_linktree](https://github.com/elcafe7/desktop_linktree) - A flat, self-updating linktree for desktop use, editable via browser.
 
