@@ -1,4 +1,4 @@
-# Hi, here.
+# Hi.
 
 ## Public Repositories
 
