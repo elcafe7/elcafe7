@@ -1,4 +1,4 @@
-# Hi.
+# Hi. CLI addict here.
 
 ## LEX CLI is my main project, I'm pretty proud of it :)
 
