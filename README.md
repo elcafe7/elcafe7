@@ -15,3 +15,7 @@
     - custom timeframe for chart
     - chart tries to assume bar/tick timespan automatically based on the timeframe you use.
     - *You will need to bring your own alpaca API key*
+
+### backlinks
+- [JesusPeopleSF.com](https://jesuspeoplesf.com/) - My ministry. Helped pay for the lex app above.
+- [Apocalypse.Press](https://Apocalypse.Press/) - Apocalypse Press is my publishing ministry, the location for Lex CLI ofline bible explorer, and the Lex-Web edition.
