@@ -4,7 +4,7 @@
 
 - [lex: the elegant bible terminal](https://github.com/elcafe7/lex/) - Offline Python CLI for elegant bible study and focused reading.
 
-- [brosif: cli ajax multilingual lexicon](https://github.com/elcafe7/brosif/) - Live updating cli basically as an offline resource for quick word lookups in greek, hebrew, latin, english, german and french. Uses sql lite for dbs
+- [brosif: cli lexicon](https://github.com/elcafe7/brosif/) - Live updating cli basically as an offline resource for quick word lookups in greek, hebrew, latin, english, german and french. Uses sql lite for dbs
 
 - [icd11-explorer](https://github.com/elcafe7/icd11-explorer) - explore the entirety of the icd11 db offline using the same ajax-like style as brosif, only for medical diagnostic categories and diseases.
     - includes a fully processed icd11 db but in sql lite and quite miniaturized
